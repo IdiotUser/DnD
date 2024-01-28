@@ -1,7 +1,7 @@
 
 ```leaflet 
 id: leaflet-map 
-image: [[World Map.JPG]]
+image:
 height: 500px 
 lat: 50 
 long: 50 
@@ -14,42 +14,44 @@ marker: default, 39.983334, -82.983330, [[Note]]
 darkMode: false marker: Obelisk,-44.66268985052517,295.8514110908333,,,,
 
 ```
-# [['Herbologists']]
+# [[The Company]]
+## Active
 ```dataview
-LIST
-from "Moonlight-Mishap"
+LIST player
+from "Sunset-Fortune"
 where type = "character"
+where active = "Active"
 sort file.name asc
 ```
-# [[Moonlight-Mishap/Loops/Quests & Questions]]
+# [[Sunset-Fortune/Loops/Quests & Questions|Quests & Questions]]
 
-# [[Moonlight-Mishap/Loops/Agenda]]
+# [[Sunset-Fortune/Loops/Agenda|Agenda]]
 
 # Sessions
 ```dataview
 table summary
-from "Moonlight-Mishap/Sessions"
+from "Sunset-Fortune/Sessions"
 where type = "session"
 sort file.name asc
 ```
 # Factions
 ```dataview
 table description, rel, met, HQ
-from "Moonlight-Mishap/Compendium"
+from "Sunset-Fortune/Compendium"
 where type = "faction"
 sort file.name asc
 ```
 # NPCs
 ```dataview
 table race, occupation, faction, sex, location, rel, met, status
-from "Moonlight-Mishap/Compendium"
+from "Sunset-Fortune/Compendium"
 where type = "npc"
 sort file.name asc
 ```
 # Info
 ```dataview
 table description
-from "Moonlight-Mishap/Compendium"
+from "Sunset-Fortune/Compendium"
 where type = "info"
 sort file.name asc
 ```

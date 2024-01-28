@@ -1,4 +1,18 @@
-
+---
+tags: info/plot
+type: info
+world: Halglond
+campaign: Þe Weal of Eventide
+location: Arkhan
+characters:
+  - Cearl
+  - Hodge
+  - Thretch
+  - Xander
+date: 2023-08-12
+game_date: 4
+description: Rising Action
+---
 “Dear Herm West
 
 We are interested in what you propose, the arcane users sound promising, however we are more interested in the aforementioned Rat and Druid, this news has caused quite a buzz here, a second kind of the creature can prove now that this may be a new emerging species, we must study its body, we must study its brain. We have already ordered a witcher to collect both you and the “delivery men” here at once; of course you will be rewarded for such fine specimens.

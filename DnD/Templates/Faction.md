@@ -1,15 +1,13 @@
 ---
-world: Halglond
-campaign: Þe Weal of Eventide
-date: {{date}}
-cssclass: hide-embedded-header
-
-description: "template"
-tags: faction
-
-first mentioned:
-met:
-rel: 
+date: 2024-01-27
+campaign: Sunset Fortune
+world: Tor
+type: Faction
+location: 
+description: 
+first mentioned: 
+met: 
+rel:
 ---
 **OVERVIEW**
 sub-type:: 
