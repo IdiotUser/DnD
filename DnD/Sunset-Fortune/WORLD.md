@@ -1,19 +1,25 @@
+---
+campaign: Sunset Fortune
+world: Tor
+icon: FasEarthAsia
+---
 
-```leaflet 
-id: leaflet-map 
-image:
-height: 500px 
-lat: 50 
-long: 50 
-minZoom: 3
-maxZoom: 5
-defaultZoom: 1
-unit: 1
-meters scale: 1 
-marker: default, 39.983334, -82.983330, [[Note]] 
-darkMode: false marker: Obelisk,-44.66268985052517,295.8514110908333,,,,
+> [!info]- World Map
+> ```leaflet 
+> id: leaflet-map 
+> image: [[Vlarian.jpg]]
+> height: 500px 
+> lat: 50 
+> long: 50 
+> minZoom: 3
+> maxZoom: 5
+> defaultZoom: 1
+> unit: 1
+> meters scale: 1 
+> marker: default, 39.983334, -82.983330, [[Note]] 
+> darkMode: false marker: Obelisk,-44.66268985052517,295.8514110908333,,,,
 
-```
+
 # [[The Company]]
 ## Active
 ```dataview
@@ -21,6 +27,14 @@ LIST player
 from "Sunset-Fortune"
 where type = "character"
 where active = "Active"
+sort file.name asc
+```
+## Retired
+```dataview
+LIST player
+from "Sunset-Fortune"
+where type = "character"
+where active = "Retired"
 sort file.name asc
 ```
 # [[Sunset-Fortune/Loops/Quests & Questions|Quests & Questions]]

@@ -1,10 +1,16 @@
 ---
-date: [2021-06-23] 
-tags: [timeline, fr] 
+date: 2024-01-28
+campaign: Sunset Fortune
+world: Tor
+game_date: 11000000
+type: timeline
+tags:
+  - timeline
+  - sf
 ---
 <span 
 	  class='ob-timelines' 
-	  data-date='1100-00' 
+	  data-date='1100-00-00' 
 	  data-title='Vlarian is born' 
 	  data-class='orange' 
 	  data-img = 'Sunset-Fortune/assets/Vlarian.jpg' 

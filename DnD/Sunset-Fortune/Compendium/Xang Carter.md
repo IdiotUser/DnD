@@ -17,6 +17,7 @@ status: Alive
 active: Active
 tags:
   - character
+icon: FasUser
 ---
 # Appearance
 # Enquiry 

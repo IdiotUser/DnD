@@ -2,12 +2,15 @@
 date: 2024-01-27
 campaign: Sunset Fortune
 world: Tor
-type: Faction
+type: faction
 location: 
 description: 
 first mentioned: 
 met: 
-rel:
+rel: 
+tags:
+  - faction
+icon: FasUsers
 ---
 **OVERVIEW**
 sub-type:: Corsair
@@ -70,7 +73,7 @@ Quartermaster
 ## Internal Policies
 Major decisions are decided by general election, during which the crew is mustered, and a ballot is drawn in the captain's hat.
 
-The captain is chosen by preferential ballot and must achieve absolute majority.  The system, while convoluted and in some cases detested, was introduced by third Officer Jean-Luc, and has remained in solidarity during absence, as a reminder of his teachings.
+The captain is chosen by preferential ballot and must achieve absolute majority.  The system, while convoluted and in some cases detested, was introduced by third Officer [[Jean-Luc]], and has remained in solidarity during absence, as a reminder of his teachings.
 
 duties of the captain:
 1. Keeping accounts of expenses and stores.
