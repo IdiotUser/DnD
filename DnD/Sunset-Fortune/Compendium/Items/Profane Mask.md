@@ -7,10 +7,10 @@ type:
   t: item
   s: wondrous item
   c: common
-Attunement: false
-Qty: "1"
-Value_(each: 5
-Value_(total): 5
+attunement: false
+qty: "1"
+value_(each: 5
+value_(total): 5
 location: Jean-Luc
 description: This cloth mask converts the words that pass through it into vile obscenities
 tags:

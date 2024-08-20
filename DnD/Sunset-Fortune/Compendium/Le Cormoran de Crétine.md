@@ -20,7 +20,7 @@ HQ:: Cormoran de Crétine
 locations::
 
 **RELATIONS**
-~~subunits::~~
+~~subunits:: ~~
 allies::
 enemies::
 
@@ -60,7 +60,7 @@ Commissioned (as corsair)
 
 %%Describe their training and level of expertise, rank structure, along with what the internal policies (rules, etc) of the faction are.%%
 ## Training
-
+[[NOW_ A Study of Language#Aquan]]
 
 
 ## Crew

@@ -19,6 +19,9 @@ tags:
   - character
 icon: FasCircleUser
 ---
+Jean-Luc or Jean de Luc
+Jean, a very common, very popular name of the period.
+Luc, any one of a number of small villages.
 # Appearance
 Sports a large tricorn with accompanying [red feather](<Le Cormoran de Crétine>).
 A Van Dyke beard, of which he is quite proud of.
@@ -26,16 +29,16 @@ Sailor's slops
 Seaman's trousers
 tattered blue _casaque_ (cassock).  %%why would a character choose to wear their old uniform, a uniform that stands for the complete opposite of their beliefs, everything that they oppose within their heart?  IDK, Reclaimed iconography? To sullen its reputation? Because deep down he is not sure he made the right choice, that he, in a small way, still wishes to return to a state of innocent naivety about his culture?  Because it looks cool?%%
 _Baudrier_ (Baldric) with accompanying double scabbard.
-A Frankish denier on a necklace %%For emergency grog, a memento and holdover of his piracy days, of which he is unlikely to spent without due course.%%
+A [Frankish](Valériar) denier on a necklace %%For emergency grog, a memento and holdover of his piracy days, of which he is unlikely to spent without due course.%%
 is [Missing his right hand](3.10.7_20230722%20Commotion%20at%20Candlekeep#Log).  The story changes with each telling.
 
 # Backstory
 ## Family history 
-**Great-grandfather** (32 quarterlings), inherits estate and surrounding lands, gets married, has a daughter - is annoyed, has affair (with member of staff), has a son - is not annoyed, gets divorced, gets married, gets divorced again, develops gambling addiction,  sells land to sustain gambling addiction, dies.
+**Great-grandfather** (32 quarterings), inherits estate and surrounding lands, gets married, has a daughter - is annoyed, has affair (with member of staff), has a son - is not annoyed, gets divorced, gets married, gets divorced again, develops gambling addiction,  sells land to sustain gambling addiction, dies.
 
-**Grandfather** (16 quarterlings) inherits run-down estate, marries commoner, has son, sells estate to a friend (who's father, taking pity, provides a letter of recommendation to military service), buys equipment necessary to..., gain higher status through military service (*Noblesse militaire*)[^1], 20 long years of service, succeeds - providing increased future prospects for son and is re-estate-d as *comte de la Fère* a demesne within *Valonier*, KIA.
+**Grandfather** (16 quarterings) inherits run-down estate, marries commoner, has son, sells estate to a friend (who's father, taking pity, provides a letter of recommendation to military service), buys equipment necessary to..., gain higher status through military service (*Noblesse militaire*)[^1], 20 long years of service, succeeds - providing increased future prospects for son and is re-estate-d as *comte de la Fère* a demesne within *Valonier*, KIA.
 
-**Father** (8 quarterlings) is raised as commoner, gains privileges, doesn't forget past (good), marries artist (commoner), does military service, has son (4 quarterlings), hires teachers for son (prefers combat), teachers dislike commoner mother and turn son against her, son is brat, has son2, raises son better(?), hires new teachers for son2, son2 is less brat, but isn't very smart, still learns, but prefers artist stuff with mother (except politics, enjoys politics), has daughter, daughter is best, becomes widower, enjoys lessons (especially politics, but has opposing opinions to teachers), good at arts, ect.  Happy peasents don't cause unrest.
+**Father** (8 quarterings) is raised as commoner, gains privileges, doesn't forget past (good), marries artist (commoner), does military service, has son, Raoul (4 quarterings), hires teachers for Raoul (prefers combat), teachers dislike commoner mother and turn Raoul against her, Raoul is brat, has son2, raises son better(?), hires new teachers for son2, son2 is less brat, but isn't very smart, still learns, but prefers artist stuff with mother (except politics, enjoys politics), has daughter, Madeleine, Madeleine is best, becomes widower, enjoys lessons (especially politics, but has opposing opinions to teachers), good at arts, ect.  Happy peasents don't cause unrest.
 ## Childhood
 Born to a minor noble, Oliver de la Fère[^4] 
 
@@ -48,16 +51,17 @@ ou
 
 les enfants perdus (Forlorn Hope, literally *"the lost children"*)[^5]
 ## Revolution
-During his revolutionary insurgency, he adopted the *nom de guerre* "Rouget La Marseillaise[^3]", where he learnt the Verlan argot (thieve's cant)
+During his revolutionary insurgency, he adopted the *nom de guerre* "rouget de Marseillaise[^3]", where he learnt the Verlan argot (thieve's cant)
 
-In a sufficiently large city/state/populace (such as _La Valér_, Valonier) might there be enough people of opposing views on the Solarswords to stage a revolt? Perhaps one that succeeds in occupying the population centre for long enough to declare independence as a republic and execute several nobles and aristocrats (including any memebers of the Solarswords foolish enough to walk through town in their livery, or anyone known to associate with them to the perceived detriment of the people), but being quickly vanquished by a legion of Solarswords, leading to increased Solarsword activity in attempts to prevent revolutionary ideas (perhaps leading to further discontent), execution of the ringleaders and imprisonment to anyone who participated in illegal activities, and the fleeing of certain members of said revolt?
+In a sufficiently large city/state/populace (such as _La Valér_, [[Valériar]]) might there be enough people of opposing views on the [[Solarswords]] to stage a revolt? Perhaps one that succeeds in occupying the population centre for long enough to declare independence as a republic and execute several nobles and aristocrats (including any memebers of the [[Solarswords]] foolish enough to walk through town in their livery, or anyone known to associate with them to the perceived detriment of the people), but being quickly vanquished by a legion of [[Solarswords]], leading to increased [[Solarsword]] activity in attempts to prevent revolutionary ideas (perhaps leading to further discontent), execution of the ringleaders and imprisonment to anyone who participated in illegal activities, and the fleeing of certain members of said revolt?
 >  Well
 >  Would you like to call
 
 %%This is too successful, and comes off as a terrorist occupation.  Who supported this revolt?  How is it seen now?%%
 ![[The Scarlet Pimpernel.png|100]]
+He took a travelling name.  When he went, he went as Jean-Luc.
 ## Life Aboard the [Cormorant](Le Cormoran de Crétine)
-Facing possible execution for his hand in the failed revolution, Jean-Luc fled about a merchant ship bound for Arakous.  Shortly after getting under way, the ship was attacked by pirates.  Whereby an offer was made.  Jean-Luc could sink with the ship, or join the pirates on the high seas
+Facing possible execution for his hand in the failed revolution, Jean-Luc fled about a merchant ship bound for [[Arakous]].  Shortly after getting under way, the ship was attacked by pirates.  Whereby an offer was made.  Jean-Luc could sink with the ship, or join the pirates on the high seas
 
 
 

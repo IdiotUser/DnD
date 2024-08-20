@@ -1,15 +1,16 @@
 ---
-date: {{date}}
+date:
+  "{ date }": 
 campaign: Sunset Fortune
 world: Tor
 game_date: 
 type:
   t: item
   s: 
-Attunement: false
-Qty: 
-Value_(each: 
-Value_(total): 
+attunement: false
+qty: 
+value_(each: 
+value_(total): 
 location: 
 description: 
 tags:
