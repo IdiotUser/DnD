@@ -15,7 +15,7 @@ description: Rising Action
 ---
 “Dear Herm West
 
-We are interested in what you propose, the arcane users sound promising, however we are more interested in the aforementioned Rat and Druid, this news has caused quite a buzz here, a second kind of the creature can prove now that this may be a new emerging species, we must study its body, we must study its brain. We have already ordered a witcher to collect both you and the “delivery men” here at once; of course you will be rewarded for such fine specimens.
+We are interested in what you propose, the arcane users sound promising, however we are more interested in the aforementioned [Rat](thretch) and [Druid](Lilith), this news has caused quite a buzz here, a second kind of the creature can prove now that this may be a new [emerging species](Rat-folk), we must study its body, we must study its brain. We have already ordered a witcher to collect both you and the “delivery men” here at once; of course you will be rewarded for such fine specimens.
 
   
 
@@ -39,4 +39,4 @@ We wish you well
 
 I wish you well
 
-Victor Mongele”
+[[Victor Mongele]]”

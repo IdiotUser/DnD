@@ -1,7 +1,7 @@
 ---
 Tags: DEFUNCT
 ---
-Before the Blackening, wealthy merchants operated a system of horse waystations whereby post would be handed from rider to rider until it arrived at its destination.  The use of such came with a hefty price and was thus reserved for the gentry who could afford such luxuries.
+Before the [Blackening], wealthy merchants operated a system of horse waystations whereby post would be handed from rider to rider until it arrived at its destination.  The use of such came with a hefty price and was thus reserved for the gentry who could afford such luxuries.
 
   
 
@@ -9,7 +9,7 @@ For the common folk there existed a different system, couriers.  Couriers were 
 
   
 
-During the [[Blackening]], such travel became scarce and dedicated waystations, unfeasible.  Instead, dedicated couriers began to emerge to capitalise on the market vacuum.  As the Blackening grew worse and worse, and the Roadwardens’ numbers began to dwindle, these as-of-yet de-centralised couriers began to become more heavily armed to defend themselves on the highways.  Eventually, people began hiring couriers for things other than mail and the Couriers guild was established along the way.
+During the [[Blackening]], such travel became scarce and dedicated waystations, unfeasible.  Instead, dedicated couriers began to emerge to capitalise on the market vacuum.  As the Blackening grew worse and worse, and the [[Roadwardens]]’ numbers began to dwindle, these as-of-yet de-centralised couriers began to become more heavily armed to defend themselves on the highways.  Eventually, people began hiring couriers for things other than mail and the Couriers guild was established along the way.
 
   
 

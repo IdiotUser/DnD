@@ -5,6 +5,7 @@ world: Halglond
 campaign: Þe Weal of Eventide 
 date: 2023-08-05
 description: ""
+
 race: Human
 sex: M
 class: 4 Ranger
@@ -21,6 +22,8 @@ status: Alive
 
 Carry 1x still-beating [[Wendigo]] Heart.
 ![Pin on art|300](https://i.pinimg.com/originals/70/fa/a4/70faa40550e8c04746505a4aa4f86f10.jpg)
+
+The Witcher's *vade mecum* is their most powerful tool.  It contains a summary of each beast fought by a [[Witchers]] and notably, how it may be slain.
 
 Hodge Van Helsing
 Hodge Van Hopkins?

@@ -24,8 +24,8 @@ Did his older brother force her to do it?
 
 ## Affects
 
-Immune to divine magics, no healing, scrying or the like.
-Cannot be resurrected, but raise dead functions similarly.
+Immune to divine magics, no healing, [[Scrying]] or the like.
+Cannot be resurrected, but [[Raise Dead]] functions similarly.
 Cannot dream - dreams are an effect of the soul
 Relationship to mundane magic?
 
@@ -39,7 +39,7 @@ Restraint is a form of worship. (Oaths, vows, commandments, ect.)
 The soul is required for such transference of energy from worshiper to worshiped.
 Theoretically, without a soul, the energy may still be generated from worship, however such divine beings as gods would be unable to harness it.  
 Theoretically, one could design a structure to harness these rogue energies, if only there were a way to direct them.  
-Theoretically, a holy crusade of the soulless would generate viable energy that, if unfettered by divine beings, would be collected by a structure, into a form that may be further refined to allow for the abilities of gods, without their aid. Such unholy magics may even be usable by the mortal, or almost mortal.
+Theoretically, a holy crusade of the soulless would generate viable energy that, if unfettered by divine beings, would be collected by a [structure](Tower of Sorrow), into a form that may be further refined to allow for the abilities of gods, without their aid. Such unholy magics may even be usable by the mortal, or almost mortal.
 
 
 Divine - of or relating to the soul

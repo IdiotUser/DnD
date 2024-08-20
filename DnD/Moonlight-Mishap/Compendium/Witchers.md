@@ -2,7 +2,6 @@
 world: Halglond
 campaign: Þe Weal of Eventide
 date: 2023-08-05
-cssclass: hide-embedded-header
 description: Hunters of witches
 tags: faction/military, faction/active
 first mentioned: 1.1.2
@@ -84,12 +83,17 @@ A warranted national army, tasked with the eradication of heretical practice and
 ## Notable Witchers
 ```dataview
 TABLE description
-from "Þe Weal of Eventide/Compendium"
+from "Moonlight-Mishap/Compendium"
 where occupation = "Witcher"
 sort file.name asc
 ```
 [[Hodge]]'s brother, a member of the [[Knights of Sorrow]].
 [[Hodge]]'s father, ex member of the [[#King's Contingent]](?)
+Þe Weal of Eventide
+
+[[Ephraim]][[Ratcatcher]][[Red Rider]][[Ruchet]]
+
+
 # Equipment
 
 %%This section should provide a list of what equipment the faction has in their hands.

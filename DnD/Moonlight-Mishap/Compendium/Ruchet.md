@@ -15,3 +15,4 @@ rel:
 status: Alive
 ---
 *"A heavily armoured but thin individual, mostly working under From Dunwich as a private contractor and exterminater, although that’s all that’s been known or seen."*
+[[Witchers]]

@@ -1,5 +1,5 @@
 ---
-tag: character
+tags: character
 type: character
 location: Arkhan 
 world: Halglond
