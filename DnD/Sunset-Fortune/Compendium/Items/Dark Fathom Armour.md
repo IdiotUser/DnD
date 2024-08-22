@@ -1,6 +1,5 @@
 ---
-date:
-  "{ date }": 
+date: 2024-01-29
 campaign: Sunset Fortune
 world: Tor
 game_date: 
@@ -16,6 +15,7 @@ location: Jean-Luc
 description: This dark, sea-soaked suit of armour smells of brine and is covered in eldritch runes
 tags:
   - item
+  - sf
 icon: FasCube
 ---
 ![[Dark Fathom Armour.webp|400]]

@@ -1,6 +1,5 @@
 ---
-date:
-  "{ date }": 
+date: 2024-01-29
 campaign: Sunset Fortune
 world: Tor
 game_date: 

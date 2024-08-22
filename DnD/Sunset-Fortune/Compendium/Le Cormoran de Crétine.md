@@ -10,6 +10,7 @@ met:
 rel: 
 tags:
   - faction
+  - "#sf"
 icon: FasUsers
 ---
 **OVERVIEW**

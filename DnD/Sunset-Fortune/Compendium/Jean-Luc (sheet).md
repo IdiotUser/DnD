@@ -2,9 +2,11 @@
 date: 2023-08-05
 campaign: Sunset Fortune
 world: Tor
-hp:
-ac:
+hp: 
+ac: 
 icon: FasSquarePersonConfined
+tags:
+  - sf
 ---
 
 |                |                                                         |
@@ -12,7 +14,7 @@ icon: FasSquarePersonConfined
 | **Class**      | [Swashbuckler](Rogue.md#Roguish%20Archetypes#Swashbuckler) |
 | **Level**      | 10                                                      |
 | **Race**       | [[Human]]                                               |
-| **Alignment**  |                                                         |
+| **[[Alignment]]**  |                                                         |
 | **Background** | (see: [[Jean-Luc]])                                     |
 
 --- 
@@ -28,7 +30,7 @@ icon: FasSquarePersonConfined
 
 --- 
 ## Abilities 
-### Abilities 
+### [[Abilities]] 
 | STR | DEX | CON | INT | WIS | CHA |                  |
 | :-: | :-: | :-: | :-: | :-: | :-: | ---------------- |
 | 11  | 20  | 12  |  8  | 10  | 18  | **Stats**        |
@@ -63,18 +65,18 @@ icon: FasSquarePersonConfined
 |  ○   |   WIS   | Survival            |    0    |
 
 # Traits 
-## Feats
+#[Feats](obsidian://open?vault=DnD&file=_Game%20Resources%2F_SRD%2FCharacterizations%2FFeats%2F%23%20Feats)
 ### [[Inspiring Leader]]
 You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 ### [[Poisoner]]
-You can prepare and deliver deadly poisons, gaining the following benefits:
-- When you make a damage roll, you ignore resistance to poison damage.
+You can prepare and deliver deadly [[poisons]], gaining the following benefits:
+- When you make a damage roll, you ignore [[resistance]] to poison damage.
 - You can coat a weapon in poison as a bonus action, instead of an action.
 - You gain proficiency with the poisoner's kit if you don't already have it. With one hour of work using a poisoner's kit and expending 50 gp worth of materials, you can create a number of doses of potent poison equal to your proficiency bonus. Once applied to a weapon or piece of ammunition, the poison retains its potency for 1 minute or until you hit with the weapon or ammunition. When a creature takes damage from the coated weapon or ammunition, that creature must succeed on a DC 14 Constitution saving throw or take 2d8 poison damage and become poisoned until the end of your next turn.
 ## [[Rogue]]
-#### Sneak Attack
+#### [Sneak Attack](Rogue#Sneak%20Attack)
 Once per turn, you can deal an extra 5d6 damage to one creature you hit with an attack with a finesse or ranged weapon if you have advantage on the attack roll. You don’t need advantage on the attack roll if another enemy of the target is within 5 ft. of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
-#### Fancy Footwork
+#### [Fancy Footwork](Rogue#Fancy%20Footwork)
 When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.
 
 #### Rakish Audacity
@@ -82,7 +84,7 @@ Starting at 3rd level, your confidence propels you into battle. You can give you
 
 You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.
 
-#### Panache
+#### [Panache](Rogue#Panache)
 At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.
 
 If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.
@@ -90,11 +92,11 @@ If you succeed on the check and the creature is hostile to you, it has disadvant
 If you succeed on the check and the creature isn't hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.
 
 ## Proficiencies 
-**Armour:** Light armour
+**[Armour](Armor):** [Light armour](Light%20armor)
 
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+**[[Weapons]]:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 
-**Tools:** Thieves' tools
+**[[Tools]]:** Thieves' tools
 
 **Saving Throws:** Dexterity, Intelligence
 
@@ -114,10 +116,12 @@ Thieve's Cant
 | CP  | SP  | EP  | GP  | PP  |
 | :-: | :-: | :-: | :-: | :-: |
 |     |     |     |     |     |
-A leather pouch containing the whole apparatus for shaving, and a hidden compartment for poisoning and lock-picking. %%Jean-Luc is a respectable, and modern gentleman , practicing the art of auto-pogonotomy on every second morning to maintain his stunning physique.  He also partakes in the poisoning of those who he deems worthy (notably better dressed dandies, annd those that have too much).%%
+A leather pouch containing the whole apparatus for shaving, and a hidden compartment for poisoning and lock-picking. %%[[Jean-Luc]] is a respectable, and modern gentleman , practicing the art of auto-pogonotomy on every second morning to maintain his stunning physique.  He also partakes in the poisoning of those who he deems worthy (notably better dressed dandies, annd those that have too much).%%
 A sharpened marlin spike, haft wrapped in [red bazie cloth](https://en.wikipedia.org/wiki/Cat_o%27_nine_tails).
 Whetstone, oils, and cloth for maintaining blades.
 
 3x water skins of dragon's blood
 
 [[Dark Fathom Armour]]
+[[Profane Mask]]
+[[Sending Stone]]
