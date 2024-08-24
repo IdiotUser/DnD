@@ -49,10 +49,10 @@ The *Cormoran de Crétine* or Stupid Cormorant is a brig launched in \[DATE] at 
 ### Timeline
 Launched
 Revolutionary work
-[[Jean-Luc]] joins crew
+[[Jean-Luc Dupont]] joins crew
 Capture
 Commissioned (as corsair)
-[[Jean-Luc]] jumps ship
+[[Jean-Luc Dupont]] jumps ship
 
 
 
@@ -74,7 +74,7 @@ Quartermaster
 ## Internal Policies
 Major decisions are decided by general election, during which the crew is mustered, and a ballot is drawn in the captain's hat.
 
-The captain is chosen by preferential ballot and must achieve absolute majority.  The system, while convoluted and in some cases detested, was introduced by third Officer [[Jean-Luc]], and has remained in solidarity during absence, as a reminder of his teachings.
+The captain is chosen by preferential ballot and must achieve absolute majority.  The system, while convoluted and in some cases detested, was introduced by third Officer [[Jean-Luc Dupont]], and has remained in solidarity during absence, as a reminder of his teachings.
 
 duties of the captain:
 1. Keeping accounts of expenses and stores.

@@ -1,4 +1,6 @@
-[[Jean-Luc]] Dubois
+#DEFUNCT [[obsidian://open?vault=DnD&file=_ARCHIVED%2FCharacters%2FJean-Luc%20USES%20CHATGPT.docx]]
+
+[[Jean-Luc Dupont]] Dubois
 
 “Zhahn-luke Doo Bwah”
 
@@ -66,7 +68,7 @@ So he continued to sail, always moving, always searching for something new. He m
 
 # Sheet:
 
-Name: [[Jean-Luc]] the Jester
+Name: [[Jean-Luc Dupont]] the Jester
 
 Race: Human
 

@@ -2,6 +2,8 @@
 campaign: Sunset Fortune
 world: Tor
 icon: FasEarthAsia
+tags:
+  - sf
 ---
 
 > [!info]- World Map

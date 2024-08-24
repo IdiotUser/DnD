@@ -1,3 +1,4 @@
+#sf
 # Major Quests
 ```dataview
 table contact, objective, reward, state, taken, completed

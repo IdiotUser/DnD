@@ -15,7 +15,7 @@ tags:
 | **Level**      | 10                                                      |
 | **Race**       | [[Human]]                                               |
 | **[[Alignment]]**  |                                                         |
-| **Background** | (see: [[Jean-Luc]])                                     |
+| **Background** | (see: [[Jean-Luc Dupont]])                                     |
 
 --- 
 # Stats 
@@ -116,7 +116,7 @@ Thieve's Cant
 | CP  | SP  | EP  | GP  | PP  |
 | :-: | :-: | :-: | :-: | :-: |
 |     |     |     |     |     |
-A leather pouch containing the whole apparatus for shaving, and a hidden compartment for poisoning and lock-picking. %%[[Jean-Luc]] is a respectable, and modern gentleman , practicing the art of auto-pogonotomy on every second morning to maintain his stunning physique.  He also partakes in the poisoning of those who he deems worthy (notably better dressed dandies, annd those that have too much).%%
+A leather pouch containing the whole apparatus for shaving, and a hidden compartment for poisoning and lock-picking. %%[[Jean-Luc Dupont]] is a respectable, and modern gentleman , practicing the art of auto-pogonotomy on every second morning to maintain his stunning physique.  He also partakes in the poisoning of those who he deems worthy (notably better dressed dandies, annd those that have too much).%%
 A sharpened marlin spike, haft wrapped in [red bazie cloth](https://en.wikipedia.org/wiki/Cat_o%27_nine_tails).
 Whetstone, oils, and cloth for maintaining blades.
 
